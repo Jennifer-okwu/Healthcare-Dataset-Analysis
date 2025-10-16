@@ -11,7 +11,7 @@ This data analysis aims to apply my Power BI skills in generating key insights f
 
 ### Data Sources
 
-The primary source of data used is healthcare_dataset.csv which was downloaded from Kaggle. The dataset contains multiple patient-level attributes (demographics, admissions, billing, medications, test results). [Download Here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+The primary source of data used is healthcare_dataset.csv which was downloaded from Kaggle. The dataset contains multiple patient-level attributes (demographics, admissions, billing, medications, test results). [Download Data](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 ### Tools Used
 
