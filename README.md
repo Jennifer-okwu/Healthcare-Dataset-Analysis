@@ -72,3 +72,8 @@ The following insights were derived from the analysis;
 
 ![Healthcare 3](https://github.com/user-attachments/assets/47f80782-39bc-4668-a92e-f37e3a949875)
 
+- The overall dataset showed more abnormal test results especially in urgent admission, arthritis condition and in patients below 18yrs and 40-64ys. Inconclusive test results were prevalent in urgent and emergency admissions and in hypertensive medical conditions.
+- There was a sustained spike in the number of test results generated in 2020 (which is probably due to the COVID-19 outbreak) all through till 2023, then a sharp decline in 2024.
+Johnson PLC generated the most inconclusive test results. LLC Smith, Ltd Smith and Smith PLC hospitals generated the most abnormal results.
+
+
