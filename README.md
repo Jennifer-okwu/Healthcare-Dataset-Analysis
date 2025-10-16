@@ -60,3 +60,15 @@ Average Billing Amount = AVERAGE(healthcare_dataset[Billing Amount])
 The following insights were derived from the analysis;
 - Males are 0.08% more than females in the overall gender distribution. The dataset has fewer of its population as children (below 18yrs) and most of its population are within 40-64yrs.
 
+![Healthcare 1](https://github.com/user-attachments/assets/ef3c60c3-e682-4eb0-951b-3362ce73cd95)
+
+- Elective and Urgent admission types had the highest population of patients. More males were admitted through the urgent admission type and more females were admitted via elective admission. More emergency admissions were recorded among patients below 18 years. More urgent admissions were recorded among patients 40-64yrs and 65yrs and above. 
+- Cigna insurance covered most urgent and emergency admissions while United Healthcare insurance covered most elective admissions. While Abbott hospitals had the least number of admissions, LLC Smith had the highest number of admissions.
+
+![Healthcare 2](https://github.com/user-attachments/assets/a2b1c5a2-d3bd-4802-805e-4c1ca3de7d9d)
+
+- There is a high prevalence of obesity in patients below 18yrs. Diabetes is more prevalent in patients between 40-64yrs. Arthritis and Cancer is more prevalent in patients 18-39yrs and Asthma is more prevalent in patients above 64yrs of age.
+- All 5 medications were prescribed across all medical conditions with Lipitor being the overall most prescribed drug and also the most prescribed medication in urgent admission. Aspirin was prescribed more for females and in elective admission while Paracetamol was prescribed more for males and in emergency admission. Aspirin and Penicillin was observed to be prescribed more for patients in the middle age and elderly age groups.
+
+![Healthcare 3](https://github.com/user-attachments/assets/47f80782-39bc-4668-a92e-f37e3a949875)
+
