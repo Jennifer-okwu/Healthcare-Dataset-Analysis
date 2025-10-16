@@ -76,4 +76,23 @@ The following insights were derived from the analysis;
 - There was a sustained spike in the number of test results generated in 2020 (which is probably due to the COVID-19 outbreak) all through till 2023, then a sharp decline in 2024.
 Johnson PLC generated the most inconclusive test results. LLC Smith, Ltd Smith and Smith PLC hospitals generated the most abnormal results.
 
+![Healthcare 4](https://github.com/user-attachments/assets/3ff3830c-9eca-4542-89b4-de7619ff68b7)
 
+- Cigna Insurance covered most of the bill of over #287m. Johnson PLC had the highest billing amount of over #1m. Some hospitals were discovered to be in debt. Elective and Urgent admissions were had the highest billing amounts.
+
+![Healthcare 5](https://github.com/user-attachments/assets/6bc0d7c5-0aa4-4134-89d8-68498820e7ce)
+
+### Recommendations
+
+- Community healthcare awareness outreaches should be organized to educate the public on the causes, risk-factors and prevention of prevalent medical conditions.
+- Create a consistent and standardized admission process in hospitals to improve efficiency and reduce variability.
+- Patients should be allowed to complete information electronically and provide necessary details before their arrival to speed up the in-person check-in process.
+- Staff training should be prioritized to maintain an effective admission of patients.
+- Pre-test preparation should be optimized to prevent test sample issues and inaccurate test results.
+- Correct procedures for handling test samples should be followed to ensure accurate results.
+- Re-testing or trying different test methods for inconclusive test results.
+- Hospitals should implement diagnostic excellence programs by creating multi-disciplinary teams including laboratory and radiology experts to improve test use and reduce errors.	
+
+### Limitations
+
+The dataset lacks a unique identifier e.g. Patient ID. I discovered that some names were shared by more than one patient with completely different records. This can easily be mistaken duplicates in the record without the unique identifier.
