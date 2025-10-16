@@ -53,3 +53,10 @@ Sum of Billing Amount = SUM(healthcare_dataset [Billing Amount])
 ``` DAX
 Average Billing Amount = AVERAGE(healthcare_dataset[Billing Amount])
 
+```
+
+### Result/ Findings
+
+The following insights were derived from the analysis;
+- Males are 0.08% more than females in the overall gender distribution. The dataset has fewer of its population as children (below 18yrs) and most of its population are within 40-64yrs.
+
